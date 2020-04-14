@@ -1,0 +1,20 @@
+  {
+    "name": "swipey",
+    "description": "",
+    "version": "0.0.1",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/areg-dev/swipey.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/areg-dev/swipey/issues"
+    },
+    "homepage": "https://github.com/areg-dev/swipey"
+  }
